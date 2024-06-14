@@ -1,0 +1,23 @@
+.layui-footer {
+  text-align: center;
+  font-size: 12px;
+}
+.iconfont {
+  margin-right: 8px;
+}
+.layui-icon {
+  margin-right: 8px;
+}
+iframe {
+  width: 100%;
+  height: 100%;
+}
+.layui-body {
+  overflow: hidden;
+}
+.layui-side-scroll .userinfo {
+  height: 60px;
+  line-height: 60px;
+  margin-left: 12px;
+  border-bottom: 1px solid #282b33;
+}
